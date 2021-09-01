@@ -7,3 +7,9 @@ Resumo das implementações:
 - Aula 3: não houve atualização (realização pelos alunos)
 
 - Aula 4: foi implementada a rota básica do CRUD (commit 2), as implementações do Request e Response nas rotas (commit 3) e a implementação do Controller (commit 4). Começamos a utilizar nodemon. 
+
+
+
+6) Criar a entidade e o seu schema [MongoDB e Mongoose]
+
+7) Realizar a API do CRUD com persistência em MongoDB [Mongoose]
